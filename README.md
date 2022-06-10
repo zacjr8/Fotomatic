@@ -1,0 +1,2 @@
+# Fotomatic
+Webpage for photography
